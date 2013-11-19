@@ -1,0 +1,15 @@
+<snippet>
+  <content><![CDATA[
+<ul class="breadcrumbs">
+  <li><a href="#">Home</a></li>
+  <li><a href="#">Features</a></li>
+  <li class="unavailable"><a href="#">Gene Splicing</a></li>
+  <li class="current"><a href="#">Cloning</a></li>
+</ul>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>zf-breadcrumb</tabTrigger>
+  <description>ZURB Foundation 5 Breadcrumbs</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html</scope>
+</snippet>

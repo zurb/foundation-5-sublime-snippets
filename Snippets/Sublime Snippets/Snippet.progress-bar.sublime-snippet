@@ -1,0 +1,16 @@
+<snippet>
+  <content><![CDATA[
+<!-- Container Width Classes: [small-# large-#] -->
+<!-- Color Classes: [secondary alert success] -->
+<!-- Radius Classes: [radius round] -->
+<!-- Progress Width Classes: [1 - 100] -->
+<div class="progress">
+  <span class="meter" style="width: 100%"></span>
+</div>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>zf-progress-bar</tabTrigger>
+  <description>ZURB Foundation 5 Progress Bar</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html</scope>
+</snippet>

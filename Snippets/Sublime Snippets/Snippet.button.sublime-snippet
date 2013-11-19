@@ -1,0 +1,14 @@
+<snippet>
+  <content><![CDATA[
+<!-- Size Classes: [tiny small large] -->
+<!-- Radius Classes: [radius round] -->
+<!-- Color Classes: [secondary success alert] -->
+<!-- Disabled Class: disabled -->
+<a href="#" class="button">Default Button</a>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>zf-button</tabTrigger>
+  <description>ZURB Foundation 5 Buttons</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html</scope>
+</snippet>

@@ -1,0 +1,59 @@
+## ZURB Foundation 5 Sublime Text Snippets
+
+#### Installation
+
+1. CD into Sublime Text 2 packages folder
+2. Clone repository into packages folder
+
+```powershell
+cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages
+git clone https://github.com/ZURB/Foundation-5-sublime-snippets.git
+```
+
+* Each snippet is prefixed with `zf-` (ZURB Foundation).
+* Each snippet is singular, unless the name of the component ends in an s (offcanvas)
+* Available classes are included as comments in the snippets
+
+##### Available Components
+
+* Offcanvas
+* Topbar
+* Sidenav
+* Subnav
+* Breadcrumbs
+* Pagination
+* Orbit
+* Clearing
+* Buttons
+* Button Groups
+* Split Buttons
+* Dropdown Buttons
+* Reveal
+* Alerts
+* Panels
+* Pricing Tables
+* Progress Bars
+* Accordion
+* Tabs
+
+##### Example Usage:
+
+    zf-offcanvas + tab
+    zf-topbar + tab
+    zf-sidenav + tab
+    zf-subnav + tab
+    zf-breadcrumb + tab
+    zf-pagination + tab
+    zf-orbit + tab
+    zf-clearing + tab
+    zf-button + tab
+    zf-button-group + tab
+    zf-split-button + tab
+    zf-dropdown-button + tab
+    zf-reveal + tab
+    zf-alert + tab
+    zf-panel + tab
+    zf-pricing-table + tab
+    zf-progress-bar + tab
+    zf-accordion + tab
+    zf-tab + tab

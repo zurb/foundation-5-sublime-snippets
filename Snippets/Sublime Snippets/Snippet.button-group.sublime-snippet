@@ -1,0 +1,17 @@
+<snippet>
+  <content><![CDATA[
+<!-- Button Group Optional Classes: [radius round] -->
+<ul class="button-group">
+  <!-- Button Color Classes: [secondary alert success] -->
+  <!-- Button Size Classes: [tiny small large] -->
+  <li><a href="#" class="button">Button 1</a></li>
+  <li><a href="#" class="button">Button 2</a></li>
+  <li><a href="#" class="button">Button 3</a></li>
+</ul>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>zf-button-group</tabTrigger>
+  <description>ZURB Foundation 5 Button Groups</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html</scope>
+</snippet>

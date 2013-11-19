@@ -1,0 +1,18 @@
+<snippet>
+  <content><![CDATA[
+<ul class="pricing-table">
+  <li class="title">Standard</li>
+  <li class="price">$99.99</li>
+  <li class="description">An awesome description</li>
+  <li class="bullet-item">1 Database</li>
+  <li class="bullet-item">5GB Storage</li>
+  <li class="bullet-item">20 Users</li>
+  <li class="cta-button"><a class="button" href="#">Buy Now</a></li>
+</ul>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>zf-pricing-table</tabTrigger>
+  <description>ZURB Foundation 5 Pricing Table</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html</scope>
+</snippet>

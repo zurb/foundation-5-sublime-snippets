@@ -1,0 +1,29 @@
+<snippet>
+  <content><![CDATA[
+<ul class="example-orbit" data-orbit>
+  <li>
+    <img src="http://placehold.it/1000x300/A92B48/fff" alt="slide 1" />
+    <div class="orbit-caption">
+      Caption One.
+    </div>
+  </li>
+  <li>
+    <img src="http://placehold.it/1000x300/EE964D/fff" alt="slide 2" />
+    <div class="orbit-caption">
+      Caption Two.
+    </div>
+  </li>
+  <li>
+    <img src="http://placehold.it/1000x300/FDC43D/fff" alt="slide 3" />
+    <div class="orbit-caption">
+      Caption Three.
+    </div>
+  </li>
+</ul>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>zf-orbit</tabTrigger>
+  <description>ZURB Foundation 5 Orbit Slider</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html</scope>
+</snippet>

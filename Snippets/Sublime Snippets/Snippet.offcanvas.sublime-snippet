@@ -1,0 +1,41 @@
+<snippet>
+  <content><![CDATA[
+<div class="off-canvas-wrap">
+  <div class="inner-wrap">
+    <nav class="tab-bar">
+
+      <section class="left-small">
+        <a class="off-canvas-left-toggle menu-icon" ><span></span></a>
+      </section>
+
+      <section class="right tab-bar-section">
+        <h1 class="title">Foundation</h1>
+      </section>
+
+    </nav>
+
+    <!-- Off Canvas Menu -->
+    <aside class="left-off-canvas-menu">
+      <ul class="off-canvas-list">
+        <li><label>Foundation</label></li>
+        <li><a href="#">The Psychohistorians</a></li>
+        ...
+      </ul>
+    </aside>
+
+    <section class="main-section">
+      <!-- content goes in here -->
+    </section>
+
+  <!-- close the off-canvas menu -->
+  <a class="exit-off-canvas"></a>
+
+  </div>
+</div>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>zf-offcanvas</tabTrigger>
+  <description>ZURB Foundation 5 Offcanvas</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html</scope>
+</snippet>

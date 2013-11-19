@@ -1,0 +1,29 @@
+<snippet>
+  <content><![CDATA[
+<dl class="accordion" data-accordion>
+  <dd>
+    <a href="#panel1">Accordion 1</a>
+    <div id="panel1" class="content active">
+      Panel 1 Content
+    </div>
+  </dd>
+  <dd>
+    <a href="#panel2">Accordion 2</a>
+    <div id="panel2" class="content">
+      Panel 2 Content
+    </div>
+  </dd>
+  <dd>
+    <a href="#panel3">Accordion 3</a>
+    <div id="panel3" class="content">
+      Panel 3 Content
+    </div>
+  </dd>
+</dl>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>zf-accordion</tabTrigger>
+  <description>ZURB Foundation 5 Accordion</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html</scope>
+</snippet>

@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+<div class="row">
+  <div class="small-12 medium-12 large-12 columns"></div>
+</div>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>zf-full-grid</tabTrigger>
+  <description>ZURB Foundation Full Grid</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html</scope>
+</snippet>

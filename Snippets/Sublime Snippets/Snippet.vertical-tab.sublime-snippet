@@ -1,0 +1,29 @@
+<snippet>
+  <content><![CDATA[
+<dl class="tabs vertical" data-tab>
+  <dd class="active"><a href="#panel1a">Tab 1</a></dd>
+  <dd><a href="#panel2a">Tab 2</a></dd>
+  <dd><a href="#panel3a">Tab 3</a></dd>
+  <dd><a href="#panel4a">Tab 4</a></dd>
+</dl>
+<div class="tabs-content vertical">
+  <div class="content active" id="panel1a">
+    <p>Panel 1.</p>
+  </div>
+  <div class="content" id="panel2a">
+    <p>Panel 2.</p>
+  </div>
+  <div class="content" id="panel3a">
+    <p>Panel 3.</p>
+  </div>
+  <div class="content" id="panel4a">
+    <p>Panel 4.</p>
+  </div>
+</div>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>zf-vertical-tab</tabTrigger>
+  <description>ZURB Foundation Vertical Tabs</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html</scope>
+</snippet>

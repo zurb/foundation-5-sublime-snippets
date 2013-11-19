@@ -35,6 +35,11 @@ git clone https://github.com/zurb/foundation-5-sublime-snippets.git
 * Progress Bars
 * Accordion
 * Tabs
+* Vertical Tabs
+* Full Grid Layout - 12 columns
+* Half Grid Layout - 6 columns
+* Quarter Grid Layout - 3 columns
+* Third Grid Layout - 4 columns
 
 ##### Example Usage:
 
@@ -57,3 +62,8 @@ git clone https://github.com/zurb/foundation-5-sublime-snippets.git
     zf-progress-bar + tab
     zf-accordion + tab
     zf-tab + tab
+    zf-vertical-tab + tab
+    zf-full-grid + tab
+    zf-half-grid + tab
+    zf-quarter-grid + tab
+    zf-third-grid + tab

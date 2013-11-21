@@ -1,12 +1,13 @@
 ## ZURB Foundation 5 Sublime Text Snippets
+Forked from https://github.com/zurb/foundation-5-sublime-snippets. Haml was just converted via htmltohaml, it will need some love. I'll start changing all the %a to =link_to at some point.
 
 #### Installation
 
-1. CD into Sublime Text 2 packages folder
+1. CD into Sublime Text 3 packages folder
 2. Clone repository into packages folder
 
 ```powershell
-cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages
+cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages
 git clone https://github.com/zurb/foundation-5-sublime-snippets.git
 ```
 

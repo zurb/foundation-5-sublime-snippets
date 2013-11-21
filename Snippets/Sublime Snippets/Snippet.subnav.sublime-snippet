@@ -1,16 +1,19 @@
 <snippet>
   <content><![CDATA[
-<dl class="sub-nav">
-  <dt>Filter:</dt>
-  <dd class="active"><a href="#">All</a></dd>
-  <dd><a href="#">Active</a></dd>
-  <dd><a href="#">Pending</a></dd>
-  <dd><a href="#">Suspended</a></dd>
-</dl>
+%dl.sub-nav
+  %dt Filter:
+  %dd.active
+    %a{:href => "#"} All
+  %dd
+    %a{:href => "#"} Active
+  %dd
+    %a{:href => "#"} Pending
+  %dd
+    %a{:href => "#"} Suspended
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>zf-subnav</tabTrigger>
   <description>ZURB Foundation 5 Sub Nav</description>
   <!-- Optional: Set a scope to limit where the snippet will trigger -->
-  <scope>text.html</scope>
+  <scope>text.haml</scope>
 </snippet>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<snippet>
+  <content><![CDATA[
+/ Optional classes: [success alert secondary] [radius round]
+.alert-box{"data-alert" => ""}
+  / Your content goes here
+  %a.close{href: "#"} &times;
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>zf-alert</tabTrigger>
+  <description>ZURB Foundation 5 Alert</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.haml</scope>
+</snippet>

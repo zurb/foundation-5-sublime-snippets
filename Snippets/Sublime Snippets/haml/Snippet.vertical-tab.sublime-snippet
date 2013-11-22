@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<snippet>
+  <content><![CDATA[
+%dl.tabs.vertical{"data-tab" => ""}
+  %dd.active
+    %a{href: "#panel1a"} Tab 1
+  %dd
+    %a{href: "#panel2a"} Tab 2
+  %dd
+    %a{href: "#panel3a"} Tab 3
+  %dd
+    %a{href: "#panel4a"} Tab 4
+.tabs-content.vertical
+  #panel1a.content.active
+    %p Panel 1.
+  #panel2a.content
+    %p Panel 2.
+  #panel3a.content
+    %p Panel 3.
+  #panel4a.content
+    %p Panel 4.
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>zf-vertical-tab</tabTrigger>
+  <description>ZURB Foundation Vertical Tabs</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.haml</scope>
+</snippet>

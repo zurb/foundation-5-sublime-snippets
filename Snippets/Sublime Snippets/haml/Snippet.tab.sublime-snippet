@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<snippet>
+  <content><![CDATA[
+%dl.tabs{"data-tab" => ""}
+  %dd.active
+    %a{href: "#panel1"} Tab 1
+  %dd
+    %a{href: "#panel2"} Tab 2
+  %dd
+    %a{href: "#panel3"} Tab 3
+  %dd
+    %a{href: "#panel4"} Tab 4
+.tabs-content
+  #panel1.content.active
+    %p This is the first panel of the basic tab example. This is the first panel of the basic tab example.
+  #panel2.content
+    %p This is the second panel of the basic tab example. This is the second panel of the basic tab example.
+  #panel3.content
+    %p This is the third panel of the basic tab example. This is the third panel of the basic tab example.
+  #panel4.content
+    %p This is the fourth panel of the basic tab example. This is the fourth panel of the basic tab example.
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>zf-tab</tabTrigger>
+  <description>ZURB Foundation 5 Tabs</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.haml</scope>
+</snippet>

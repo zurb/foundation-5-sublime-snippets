@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<snippet>
+  <content><![CDATA[
+%ul.pagination
+  %li.arrow.unavailable
+    %a{href: ""} &laquo;
+  %li.current
+    %a{href: ""} 1
+  %li
+    %a{href: ""} 2
+  %li
+    %a{href: ""} 3
+  %li
+    %a{href: ""} 4
+  %li.unavailable
+    %a{href: ""} &hellip;
+  %li
+    %a{href: ""} 12
+  %li
+    %a{href: ""} 13
+  %li.arrow
+    %a{href: ""} &raquo;
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>zf-pagination</tabTrigger>
+  <description>ZURB Foundation 5 Pagination</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.haml</scope>
+</snippet>

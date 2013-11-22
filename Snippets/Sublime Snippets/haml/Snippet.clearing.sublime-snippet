@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<snippet>
+  <content><![CDATA[
+%ul.clearing-thumbs{"data-clearing" => ""}
+  %li
+    %a{:href => "path/to/your/img"}
+      %img{:src => "path/to/your/img-th"}/
+  %li
+    %a{:href => "path/to/your/img"}
+      %img{:src => "path/to/your/img-th"}/
+  %li
+    %a{:href => "path/to/your/img"}
+      %img{:src => "path/to/your/img-th"}/
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>zf-clearing</tabTrigger>
+  <description>ZURB Foundation 5 Clearing</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.haml</scope>
+</snippet>

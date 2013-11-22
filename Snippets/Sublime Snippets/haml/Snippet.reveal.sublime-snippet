@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<snippet>
+  <content><![CDATA[
+/ Size Classes: [small medium large xlarge expand]
+#myModal{"data-reveal-modal" => ""}
+  %h2 Awesome. I have it.
+  %p.lead Your couch.  It is mine.
+  %p Im a cool paragraph that lives inside of an even cooler modal. Wins
+  %a.close-reveal-modal ×
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>zf-reveal</tabTrigger>
+  <description>ZURB Foundation 5 Reveal</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.haml</scope>
+</snippet>

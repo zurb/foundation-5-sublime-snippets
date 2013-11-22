@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<snippet>
+  <content><![CDATA[
+%ul.side-nav
+  %li.active
+    %a{:href => "#"} Link 1
+  %li
+    %a{:href => "#"} Link 2
+  %li.divider
+  %li
+    %a{:href => "#"} Link 3
+  %li
+    %a{:href => "#"} Link 4
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>zf-sidenav</tabTrigger>
+  <description>ZURB Foundation 5 Side Nav</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.haml</scope>
+</snippet>

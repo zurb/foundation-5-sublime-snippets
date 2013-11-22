@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<snippet>
+  <content><![CDATA[
+.row
+  .small-6.medium-6.large-6.columns
+  .small-6.medium-6.large-6.columns
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>zf-half-grid</tabTrigger>
+  <description>ZURB Foundation Half Grid</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.haml</scope>
+</snippet>

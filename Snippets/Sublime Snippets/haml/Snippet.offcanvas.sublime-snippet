@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<snippet>
+  <content><![CDATA[
+.off-canvas-wrap
+  .inner-wrap
+    %nav.tab-bar
+      %section.left-small
+        %a.off-canvas-left-toggle.menu-icon
+          %span
+      %section.right.tab-bar-section
+        %h1.title Foundation
+    / Off Canvas Menu
+    %aside.left-off-canvas-menu
+      %ul.off-canvas-list
+        %li
+          %label Foundation
+        %li
+          %a{:href => "#"} The Psychohistorians
+        \...
+    %section.main-section
+      / content goes in here
+    / close the off-canvas menu
+    %a.exit-off-canvas
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>zf-offcanvas</tabTrigger>
+  <description>ZURB Foundation 5 Offcanvas</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.haml</scope>
+</snippet>

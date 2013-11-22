@@ -3,13 +3,13 @@
   <content><![CDATA[
 %dl.tabs{"data-tab" => ""}
   %dd.active
-    %a{:href => "#panel1"} Tab 1
+    %a{href: "#panel1"} Tab 1
   %dd
-    %a{:href => "#panel2"} Tab 2
+    %a{href: "#panel2"} Tab 2
   %dd
-    %a{:href => "#panel3"} Tab 3
+    %a{href: "#panel3"} Tab 3
   %dd
-    %a{:href => "#panel4"} Tab 4
+    %a{href: "#panel4"} Tab 4
 .tabs-content
   #panel1.content.active
     %p This is the first panel of the basic tab example. This is the first panel of the basic tab example.

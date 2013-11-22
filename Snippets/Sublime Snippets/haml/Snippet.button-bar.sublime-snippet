@@ -4,18 +4,18 @@
 .button-bar
   %ul.button-group
     %li
-      %a.button{:href => "#"} Button 1
+      %a.button{href: "#"} Button 1
     %li
-      %a.button{:href => "#"} Button 2
+      %a.button{href: "#"} Button 2
     %li
-      %a.button{:href => "#"} Button 3
+      %a.button{href: "#"} Button 3
   %ul.button-group
     %li
-      %a.button{:href => "#"} Button 1
+      %a.button{href: "#"} Button 1
     %li
-      %a.button{:href => "#"} Button 2
+      %a.button{href: "#"} Button 2
     %li
-      %a.button{:href => "#"} Button 3
+      %a.button{href: "#"} Button 3
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>zf-button-bar</tabTrigger>

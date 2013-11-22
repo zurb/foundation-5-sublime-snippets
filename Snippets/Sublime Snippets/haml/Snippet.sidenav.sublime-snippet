@@ -3,14 +3,14 @@
   <content><![CDATA[
 %ul.side-nav
   %li.active
-    %a{:href => "#"} Link 1
+    %a{href: "#"} Link 1
   %li
-    %a{:href => "#"} Link 2
+    %a{href: "#"} Link 2
   %li.divider
   %li
-    %a{:href => "#"} Link 3
+    %a{href: "#"} Link 3
   %li
-    %a{:href => "#"} Link 4
+    %a{href: "#"} Link 4
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>zf-sidenav</tabTrigger>

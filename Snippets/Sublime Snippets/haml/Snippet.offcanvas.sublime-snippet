@@ -15,7 +15,7 @@
         %li
           %label Foundation
         %li
-          %a{:href => "#"} The Psychohistorians
+          %a{href: "#"} The Psychohistorians
         \...
     %section.main-section
       / content goes in here

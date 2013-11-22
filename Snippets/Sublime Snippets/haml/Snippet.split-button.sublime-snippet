@@ -4,17 +4,17 @@
 / Size Classes: [tiny small medium large]
 / Color Classes: [secondary alert success]
 / Radius Classes: [radius round]
-%a.button.split{:href => "#"}
+%a.button.split{href: "#"}
   Split Button
   %span{"data-dropdown" => "drop"}
 %br
   %ul#drop.f-dropdown{"data-dropdown-content" => ""}
     %li
-      %a{:href => "#"} This is a link
+      %a{href: "#"} This is a link
     %li
-      %a{:href => "#"} This is another
+      %a{href: "#"} This is another
     %li
-      %a{:href => "#"} Yet another
+      %a{href: "#"} Yet another
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>zf-split-button</tabTrigger>

@@ -3,13 +3,13 @@
   <content><![CDATA[
 %ul.breadcrumbs
   %li
-    %a{:href => "#"} Home
+    %a{href: "#"} Home
   %li
-    %a{:href => "#"} Features
+    %a{href: "#"} Features
   %li.unavailable
-    %a{:href => "#"} Gene Splicing
+    %a{href: "#"} Gene Splicing
   %li.current
-    %a{:href => "#"} Cloning
+    %a{href: "#"} Cloning
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>zf-breadcrumb</tabTrigger>

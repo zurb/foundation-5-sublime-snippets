@@ -3,14 +3,14 @@
   <content><![CDATA[
 %ul.clearing-thumbs{"data-clearing" => ""}
   %li
-    %a{:href => "path/to/your/img"}
-      %img{:src => "path/to/your/img-th"}/
+    %a{href: "path/to/your/img"}
+      %img{src: "path/to/your/img-th"}/
   %li
-    %a{:href => "path/to/your/img"}
-      %img{:src => "path/to/your/img-th"}/
+    %a{href: "path/to/your/img"}
+      %img{src: "path/to/your/img-th"}/
   %li
-    %a{:href => "path/to/your/img"}
-      %img{:src => "path/to/your/img-th"}/
+    %a{href: "path/to/your/img"}
+      %img{src: "path/to/your/img-th"}/
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>zf-clearing</tabTrigger>

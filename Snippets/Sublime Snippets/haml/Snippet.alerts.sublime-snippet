@@ -4,7 +4,7 @@
 / Optional classes: [success alert secondary] [radius round]
 .alert-box{"data-alert" => ""}
   / Your content goes here
-  %a.close{:href => "#"} &times;
+  %a.close{href: "#"} &times;
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>zf-alert</tabTrigger>

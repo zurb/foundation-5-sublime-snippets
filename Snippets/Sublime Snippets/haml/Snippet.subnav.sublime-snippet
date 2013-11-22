@@ -4,13 +4,13 @@
 %dl.sub-nav
   %dt Filter:
   %dd.active
-    %a{:href => "#"} All
+    %a{href: "#"} All
   %dd
-    %a{:href => "#"} Active
+    %a{href: "#"} Active
   %dd
-    %a{:href => "#"} Pending
+    %a{href: "#"} Pending
   %dd
-    %a{:href => "#"} Suspended
+    %a{href: "#"} Suspended
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>zf-subnav</tabTrigger>

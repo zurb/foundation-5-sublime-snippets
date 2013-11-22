@@ -3,15 +3,15 @@
   <content><![CDATA[
 %dl.accordion{"data-accordion" => ""}
   %dd
-    %a{:href => "#panel1"} Accordion 1
+    %a{href: "#panel1"} Accordion 1
     #panel1.content.active
       Panel 1 Content
   %dd
-    %a{:href => "#panel2"} Accordion 2
+    %a{href: "#panel2"} Accordion 2
     #panel2.content
       Panel 2 Content
   %dd
-    %a{:href => "#panel3"} Accordion 3
+    %a{href: "#panel3"} Accordion 3
     #panel3.content
       Panel 3 Content
 ]]></content>

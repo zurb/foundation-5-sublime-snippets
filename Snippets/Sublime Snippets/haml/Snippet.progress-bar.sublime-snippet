@@ -6,7 +6,7 @@
 / Radius Classes: [radius round]
 / Progress Width Classes: [1 - 100]
 .progress
-  %span.meter{:style => "width: 100%"}
+  %span.meter{style: "width: 100%"}
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>zf-progress-bar</tabTrigger>

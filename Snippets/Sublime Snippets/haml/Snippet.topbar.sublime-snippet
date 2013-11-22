@@ -5,21 +5,21 @@
   %ul.title-area
     %li.name
       %h1
-        %a{:href => "#"} My Site
+        %a{href: "#"} My Site
   %section.top-bar-section
     / Right Nav Section
     %ul.right
       %li.active
-        %a{:href => "#"} Right Nav Button Active
+        %a{href: "#"} Right Nav Button Active
       %li.has-dropdown
-        %a{:href => "#"} Right Button with Dropdown
+        %a{href: "#"} Right Button with Dropdown
         %ul.dropdown
           %li
-            %a{:href => "#"} First link in dropdown
+            %a{href: "#"} First link in dropdown
     / Left Nav Section
     %ul.left
       %li
-        %a{:href => "#"} Left Nav Button
+        %a{href: "#"} Left Nav Button
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>zf-topbar</tabTrigger>

@@ -5,7 +5,7 @@
 / Radius Classes: [radius round]
 / Color Classes: [secondary success alert]
 / Disabled Class: disabled
-%a.button{:href => "#"} Default Button
+%a.button{href: "#"} Default Button
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>zf-button</tabTrigger>

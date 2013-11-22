@@ -9,7 +9,7 @@
   %li.bullet-item 5GB Storage
   %li.bullet-item 20 Users
   %li.cta-button
-    %a.button{:href => "#"} Buy Now
+    %a.button{href: "#"} Buy Now
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>zf-pricing-table</tabTrigger>

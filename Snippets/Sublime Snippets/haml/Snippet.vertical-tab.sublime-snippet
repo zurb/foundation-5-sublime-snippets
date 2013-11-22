@@ -3,13 +3,13 @@
   <content><![CDATA[
 %dl.tabs.vertical{"data-tab" => ""}
   %dd.active
-    %a{:href => "#panel1a"} Tab 1
+    %a{href: "#panel1a"} Tab 1
   %dd
-    %a{:href => "#panel2a"} Tab 2
+    %a{href: "#panel2a"} Tab 2
   %dd
-    %a{:href => "#panel3a"} Tab 3
+    %a{href: "#panel3a"} Tab 3
   %dd
-    %a{:href => "#panel4a"} Tab 4
+    %a{href: "#panel4a"} Tab 4
 .tabs-content.vertical
   #panel1a.content.active
     %p Panel 1.

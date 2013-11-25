@@ -5,8 +5,14 @@
 1. CD into Sublime Text 2 packages folder
 2. Clone repository into packages folder
 
-```powershell
+#####Mac/Linux
+```
 cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages
+git clone https://github.com/zurb/foundation-5-sublime-snippets.git
+```
+#####Windows
+```powershell  
+cd "%AppData%\Sublime Text 3\Packages\User"
 git clone https://github.com/zurb/foundation-5-sublime-snippets.git
 ```
 

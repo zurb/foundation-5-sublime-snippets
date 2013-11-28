@@ -39,6 +39,10 @@ git clone https://github.com/zurb/foundation-5-sublime-snippets.git
 
 ##### Example Usage:
 
+<p>1. Click a location in your document to place code snippet.<br>
+2. From the top menu, choose: Tools > Command Palette. Type "Snippets:" 
+&nbsp;Or choose "Tools > Snippets..."</p>
+
     zf-offcanvas + tab
     zf-topbar + tab
     zf-sidenav + tab

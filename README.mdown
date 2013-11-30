@@ -2,6 +2,8 @@
 
 #### Installation on Sublime Text 2 and Sublime Text 3
 
+###### Mac/Linux Instructions
+
 1. CD into Sublime Text packages folder
 
     `cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages or cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages`
@@ -11,6 +13,10 @@
 
 `git clone https://github.com/zurb/foundation-5-sublime-snippets.git`
 
+###### Windows Instructions
+
+`cd "%AppData%\Sublime Text 3\Packages\User"`
+`git clone https://github.com/zurb/foundation-5-sublime-snippets.git`
 
 * Each snippet is prefixed with `zf-` (ZURB Foundation).
 * Each snippet is singular, unless the name of the component ends in an s (offcanvas)

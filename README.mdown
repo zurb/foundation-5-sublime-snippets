@@ -6,7 +6,11 @@
 
 1. CD into Sublime Text packages folder
 
-    `cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages or cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages`
+`cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages`
+
+or
+
+`cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages`
 
 
 2. Clone repository into packages folder

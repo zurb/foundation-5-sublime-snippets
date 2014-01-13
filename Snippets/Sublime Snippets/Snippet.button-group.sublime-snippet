@@ -4,9 +4,9 @@
 <ul class="button-group">
   <!-- Button Color Classes: [secondary alert success] -->
   <!-- Button Size Classes: [tiny small large] -->
-  <li><a href="#" class="button">Button 1</a></li>
-  <li><a href="#" class="button">Button 2</a></li>
-  <li><a href="#" class="button">Button 3</a></li>
+  <li><a href="${1:#}" class="${2:button}">${3:Button 1}</a></li>
+  <li><a href="${4:#}" class="${5:button}">${6:Button 2}</a></li>
+  <li><a href="${7:#}" class="${8:button}">${9:Button 3}</a></li>
 </ul>
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->

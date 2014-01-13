@@ -4,8 +4,8 @@
 <!-- Color Classes: [secondary alert success] -->
 <!-- Radius Classes: [radius round] -->
 <!-- Progress Width Classes: [1 - 100] -->
-<div class="progress">
-  <span class="meter" style="width: 100%"></span>
+<div class="${1:progress}">
+  <span class="${2:meter}" style="width: ${3:100}%"></span>
 </div>
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->

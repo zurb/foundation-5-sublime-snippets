@@ -1,23 +1,23 @@
 <snippet>
   <content><![CDATA[
 <dl class="tabs vertical" data-tab>
-  <dd class="active"><a href="#panel1a">Tab 1</a></dd>
-  <dd><a href="#panel2a">Tab 2</a></dd>
-  <dd><a href="#panel3a">Tab 3</a></dd>
-  <dd><a href="#panel4a">Tab 4</a></dd>
+  <dd class="active"><a href="#${1:panel1a}">${2:Tab 1}</a></dd>
+  <dd><a href="#${3:panel2a}">${4:Tab 2}</a></dd>
+  <dd><a href="#${5:panel3a}">${6:Tab 3}</a></dd>
+  <dd><a href="#${7:panel4a}">${8:Tab 4}</a></dd>
 </dl>
 <div class="tabs-content vertical">
-  <div class="content active" id="panel1a">
-    <p>Panel 1.</p>
+  <div class="content active" id="${1:panel1a}">
+    <p>${9:Panel 1.}</p>
   </div>
-  <div class="content" id="panel2a">
-    <p>Panel 2.</p>
+  <div class="content" id="${3:panel2a}">
+    <p>${10:Panel 2.}</p>
   </div>
-  <div class="content" id="panel3a">
-    <p>Panel 3.</p>
+  <div class="content" id="${5:panel3a}">
+    <p>${11:Panel 3.}</p>
   </div>
-  <div class="content" id="panel4a">
-    <p>Panel 4.</p>
+  <div class="content" id="${7:panel4a}">
+    <p>${12:Panel 4.}</p>
   </div>
 </div>
 ]]></content>

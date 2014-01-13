@@ -2,14 +2,14 @@
   <content><![CDATA[
 <div class="button-bar">
   <ul class="button-group">
-    <li><a href="#" class="button">Button 1</a></li>
-    <li><a href="#" class="button">Button 2</a></li>
-    <li><a href="#" class="button">Button 3</a></li>
+    <li><a href="${1:#}" class="button">${2:Button 1}</a></li>
+    <li><a href="${3:#}" class="button">${4:Button 2}</a></li>
+    <li><a href="${5:#}" class="button">${6:Button 3}</a></li>
   </ul>
   <ul class="button-group">
-    <li><a href="#" class="button">Button 1</a></li>
-    <li><a href="#" class="button">Button 2</a></li>
-    <li><a href="#" class="button">Button 3</a></li>
+    <li><a href="${7:#}" class="button">${8:Button 1}</a></li>
+    <li><a href="${9:#}" class="button">${10:Button 2}</a></li>
+    <li><a href="${11:#}" class="button">${12:Button 3}</a></li>
   </ul>
 </div>
 ]]></content>

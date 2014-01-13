@@ -5,11 +5,11 @@
     <nav class="tab-bar">
 
       <section class="left-small">
-        <a class="left-off-canvas-toggle menu-icon" ><span></span></a>
+        <a class="left-off-canvas-toggle menu-icon"><span>$1</span></a>
       </section>
 
       <section class="right tab-bar-section">
-        <h1 class="title">Foundation</h1>
+        <h1 class="title">${2:Foundation}</h1>
       </section>
 
     </nav>
@@ -17,14 +17,13 @@
     <!-- Off Canvas Menu -->
     <aside class="left-off-canvas-menu">
       <ul class="off-canvas-list">
-        <li><label>Foundation</label></li>
-        <li><a href="#">The Psychohistorians</a></li>
-        ...
+        <li><label>${3:Foundation}</label></li>
+        <li><a href="${4:#}">${5:The Psychohistorians}</a></li>
       </ul>
     </aside>
 
     <section class="main-section">
-      <!-- content goes in here -->
+      ${6:Awesome content here}
     </section>
 
   <!-- close the off-canvas menu -->

@@ -4,7 +4,7 @@
 <!-- Radius Classes: [radius round] -->
 <!-- Color Classes: [secondary success alert] -->
 <!-- Disabled Class: disabled -->
-<a href="#" class="button">Default Button</a>
+<a href="${1:#}" class="${2:button}">${3:Default Button}</a>
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>zf-button</tabTrigger>

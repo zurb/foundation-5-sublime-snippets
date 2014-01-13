@@ -1,9 +1,9 @@
 <snippet>
   <content><![CDATA[
 <ul class="clearing-thumbs" data-clearing>
-  <li><a href="path/to/your/img"><img src="path/to/your/img-th"></a></li>
-  <li><a href="path/to/your/img"><img src="path/to/your/img-th"></a></li>
-  <li><a href="path/to/your/img"><img src="path/to/your/img-th"></a></li>
+  <li><a href="${1:path/to/your/img}"><img src="${2:path/to/your/img-th}"></a></li>
+  <li><a href="${3:path/to/your/img}"><img src="${4:path/to/your/img-th}"></a></li>
+  <li><a href="${5:path/to/your/img}"><img src="${6:path/to/your/img-th}"></a></li>
 </ul>
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->

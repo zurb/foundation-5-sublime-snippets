@@ -1,10 +1,10 @@
 <snippet>
   <content><![CDATA[
 <div class="row">
-  <div class="small-3 medium-3 large-3 columns"></div>
-  <div class="small-3 medium-3 large-3 columns"></div>
-  <div class="small-3 medium-3 large-3 columns"></div>
-  <div class="small-3 medium-3 large-3 columns"></div>
+  <div class="small-${1:3} medium-${2:3} large-${3:3} columns">$13</div>
+  <div class="small-${4:3} medium-${5:3} large-${6:3} columns">$14</div>
+  <div class="small-${7:3} medium-${8:3} large-${9:3} columns">$15</div>
+  <div class="small-${10:3} medium-${11:3} large-${12:3} columns">$16</div>
 </div>
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->

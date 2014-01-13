@@ -1,15 +1,15 @@
 <snippet>
   <content><![CDATA[
 <ul class="pagination">
-  <li class="arrow unavailable"><a href="">&laquo;</a></li>
-  <li class="current"><a href="">1</a></li>
-  <li><a href="">2</a></li>
-  <li><a href="">3</a></li>
-  <li><a href="">4</a></li>
-  <li class="unavailable"><a href="">&hellip;</a></li>
-  <li><a href="">12</a></li>
-  <li><a href="">13</a></li>
-  <li class="arrow"><a href="">&raquo;</a></li>
+  <li class="arrow unavailable"><a href="${1:#}">${2:&laquo;}</a></li>
+  <li class="current"><a href="${2:#}">${3:1}</a></li>
+  <li><a href="${4:#}">${5:2}</a></li>
+  <li><a href="${6:#}">${7:3}</a></li>
+  <li><a href="${8:#}">${9:4}</a></li>
+  <li class="unavailable"><a href="#">&hellip;</a></li>
+  <li><a href="${10:#}">${11:12}</a></li>
+  <li><a href="${12:#}">${13:13}</a></li>
+  <li class="arrow"><a href="${14:#}">${15:&raquo;}</a></li>
 </ul>
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->

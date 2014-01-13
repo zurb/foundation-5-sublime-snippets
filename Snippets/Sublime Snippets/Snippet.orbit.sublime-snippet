@@ -2,21 +2,21 @@
   <content><![CDATA[
 <ul class="example-orbit" data-orbit>
   <li>
-    <img src="http://placehold.it/1000x300/A92B48/fff" alt="slide 1" />
+    <img src="${1:http://placehold.it/1000x300/A92B48/fff}" alt="${2:slide 1}" />
     <div class="orbit-caption">
-      Caption One.
+      ${3:Caption One.}
     </div>
   </li>
   <li>
-    <img src="http://placehold.it/1000x300/EE964D/fff" alt="slide 2" />
+    <img src="${4:http://placehold.it/1000x300/EE964D/fff}" alt="${5:slide 2}" />
     <div class="orbit-caption">
-      Caption Two.
+      ${6:Caption Two.}
     </div>
   </li>
   <li>
-    <img src="http://placehold.it/1000x300/FDC43D/fff" alt="slide 3" />
+    <img src="${7:http://placehold.it/1000x300/FDC43D/fff}" alt="${8:slide 3}" />
     <div class="orbit-caption">
-      Caption Three.
+      ${9:Caption Three.}
     </div>
   </li>
 </ul>

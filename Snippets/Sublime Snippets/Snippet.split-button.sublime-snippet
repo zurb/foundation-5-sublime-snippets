@@ -3,11 +3,11 @@
     <!-- Size Classes: [tiny small medium large] -->
     <!-- Color Classes: [secondary alert success] -->
     <!-- Radius Classes: [radius round] -->
-<a href="#" class="button split">Split Button <span data-dropdown="drop"></span></a><br>
-<ul id="drop" class="f-dropdown" data-dropdown-content>
-  <li><a href="#">This is a link</a></li>
-  <li><a href="#">This is another</a></li>
-  <li><a href="#">Yet another</a></li>
+<a href="${1:#}" class="button split$2">${3:Split Button} <span data-dropdown="${4:drop}"></span></a><br>
+<ul id="${4:drop}" class="f-dropdown" data-dropdown-content>
+  <li><a href="${5:#}">${6:This is a link}</a></li>
+  <li><a href="${7:#}">${8:This is another}</a></li>
+  <li><a href="${9:#}">${10:Yet another}</a></li>
 </ul>
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->

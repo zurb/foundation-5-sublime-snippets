@@ -1,23 +1,23 @@
 <snippet>
   <content><![CDATA[
 <dl class="tabs" data-tab>
-  <dd class="active"><a href="#panel1">Tab 1</a></dd>
-  <dd><a href="#panel2">Tab 2</a></dd>
-  <dd><a href="#panel3">Tab 3</a></dd>
-  <dd><a href="#panel4">Tab 4</a></dd>
+  <dd class="active"><a href="#${1:panel1}">${2:Tab 1}</a></dd>
+  <dd><a href="#${3:panel2}">${4:Tab 2}</a></dd>
+  <dd><a href="#${5:panel3}">${6:Tab 3}</a></dd>
+  <dd><a href="#${7:panel4}">${8:Tab 4}</a></dd>
 </dl>
 <div class="tabs-content">
-  <div class="content active" id="panel1">
-    <p>This is the first panel of the basic tab example. This is the first panel of the basic tab example.</p>
+  <div class="content active" id="${1:panel1}">
+    <p>${9:This is the first panel of the basic tab example. This is the first panel of the basic tab example.}</p>
   </div>
-  <div class="content" id="panel2">
-    <p>This is the second panel of the basic tab example. This is the second panel of the basic tab example.</p>
+  <div class="content" id="${3:panel2}">
+    <p>${10:This is the second panel of the basic tab example. This is the second panel of the basic tab example.}</p>
   </div>
-  <div class="content" id="panel3">
-    <p>This is the third panel of the basic tab example. This is the third panel of the basic tab example.</p>
+  <div class="content" id="${5:panel3}">
+    <p>${11:This is the third panel of the basic tab example. This is the third panel of the basic tab example.}</p>
   </div>
-  <div class="content" id="panel4">
-    <p>This is the fourth panel of the basic tab example. This is the fourth panel of the basic tab example.</p>
+  <div class="content" id="${7:panel4}">
+    <p>${12:This is the fourth panel of the basic tab example. This is the fourth panel of the basic tab example.}</p>
   </div>
 </div>
 ]]></content>

@@ -1,9 +1,9 @@
 <snippet>
   <content><![CDATA[
     <!-- Optional Classes: [callout radius] -->
-<div class="panel">
-  <h5>This is a callout panel.</h5>
-  <p>It's a little ostentatious, but useful for important content.</p>
+<div class="${1:panel}">
+  <h5>${2:This is a callout panel.}</h5>
+  <p>${3:It's a little ostentatious, but useful for important content.}</p>
 </div>
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->

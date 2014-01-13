@@ -1,11 +1,11 @@
 <snippet>
   <content><![CDATA[
 <dl class="sub-nav">
-  <dt>Filter:</dt>
-  <dd class="active"><a href="#">All</a></dd>
-  <dd><a href="#">Active</a></dd>
-  <dd><a href="#">Pending</a></dd>
-  <dd><a href="#">Suspended</a></dd>
+  <dt>${1:Filter:}</dt>
+  <dd class="active"><a href="${2:#}">${3:All}</a></dd>
+  <dd><a href="${4:#}">${5:Active}</a></dd>
+  <dd><a href="${6:#}">${7:Pending}</a></dd>
+  <dd><a href="${8:#}">${9:Suspended}</a></dd>
 </dl>
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->

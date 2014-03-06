@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+<kbd>${1:cmd}</kbd>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>zf-ks</tabTrigger>
+  <description>ZURB Foundation 5 Keystroke</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html</scope>
+</snippet>

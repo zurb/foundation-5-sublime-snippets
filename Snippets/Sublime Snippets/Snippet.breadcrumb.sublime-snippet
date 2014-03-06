@@ -1,10 +1,10 @@
 <snippet>
   <content><![CDATA[
 <ul class="breadcrumbs">
-  <li><a href="#">Home</a></li>
-  <li><a href="#">Features</a></li>
-  <li class="unavailable"><a href="#">Gene Splicing</a></li>
-  <li class="current"><a href="#">Cloning</a></li>
+  <li><a href="#">${1:Home}</a></li>
+  <li><a href="#">${2:Features}</a></li>
+  <li class="unavailable"><a href="#">${3:Gene Splicing}</a></li>
+  <li class="current"><a href="#">${4:Cloning}</a></li>
 </ul>
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->

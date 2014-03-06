@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+<ul class="small-block-grid-3 medium-block-grid-3 large-block-grid-3">
+	<li>$1</li>
+</ul>
+
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>zf-block-grid</tabTrigger>
+  <description>ZURB Foundation Block Grid</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html</scope>
+</snippet>

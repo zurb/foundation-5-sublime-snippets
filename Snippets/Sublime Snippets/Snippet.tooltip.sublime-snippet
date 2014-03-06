@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+<!-- Optional Classes: [tip-top tip-bottom tip-left tip-right] [radius round] -->
+<span data-tooltip class="has-tip" title="${1:tooltip text}">${1:Hover Text}</span>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>zf-tooltip</tabTrigger>
+  <description>ZURB Foundation 5 Tooltip</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html</scope>
+</snippet>

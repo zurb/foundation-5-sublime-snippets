@@ -1,14 +1,15 @@
 <snippet>
   <content><![CDATA[
 <ul class="pricing-table">
-  <li class="title">Standard</li>
-  <li class="price">$99.99</li>
-  <li class="description">An awesome description</li>
-  <li class="bullet-item">1 Database</li>
-  <li class="bullet-item">5GB Storage</li>
-  <li class="bullet-item">20 Users</li>
-  <li class="cta-button"><a class="button" href="#">Buy Now</a></li>
+  <li class="title">${1:Standard}</li>
+  <li class="price">${2:$99.99}</li>
+  <li class="description">${3:An awesome description}</li>
+  <li class="bullet-item">${4:1 Database}</li>
+  <li class="bullet-item">${5:5GB Storage}</li>
+  <li class="bullet-item">${6:20 Users}</li>
+  <li class="cta-button"><a class="button" href="#">${7:Buy Now}</a></li>
 </ul>
+
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>zf-pricing-table</tabTrigger>

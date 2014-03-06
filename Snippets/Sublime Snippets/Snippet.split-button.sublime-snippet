@@ -1,8 +1,6 @@
 <snippet>
   <content><![CDATA[
-    <!-- Size Classes: [tiny small medium large] -->
-    <!-- Color Classes: [secondary alert success] -->
-    <!-- Radius Classes: [radius round] -->
+<!-- Optional Classes: [tiny small large] [radius round] [secondary success alert] -->
 <a href="#" class="button split">Split Button <span data-dropdown="drop"></span></a><br>
 <ul id="drop" class="f-dropdown" data-dropdown-content>
   <li><a href="#">This is a link</a></li>

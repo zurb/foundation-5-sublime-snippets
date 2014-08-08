@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+%div(class="row")
+  %div(class="small-6 medium-6 large-6 columns")
+  %div(class="small-6 medium-6 large-6 columns")
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>zfh-half-grid</tabTrigger>
+  <description>ZURB Foundation Half Grid</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.haml</scope>
+</snippet>

@@ -1,0 +1,30 @@
+<snippet>
+  <content><![CDATA[
+%div(class="button-bar")
+  %ul(class="button-group")
+    %li
+      %a(href="#" class="button")
+        Button 1
+    %li
+      %a(href="#" class="button")
+        Button 2
+    %li
+      %a(href="#" class="button")
+        Button 3
+  %ul(class="button-group")
+    %li
+      %a(href="#" class="button")
+        Button 1
+    %li
+      %a(href="#" class="button")
+        Button 2
+    %li
+      %a(href="#" class="button")
+        Button 3
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>zfh-button-bar</tabTrigger>
+  <description>ZURB Foundation 5 Button Bar</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.haml</scope>
+</snippet>

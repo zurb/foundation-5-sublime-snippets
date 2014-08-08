@@ -1,0 +1,25 @@
+<snippet>
+  <content><![CDATA[
+/ Size Classes: [tiny small medium large]
+/ Color Classes: [secondary alert success]
+/ Radius Classes: [radius round]
+%a(href="#" data-dropdown="drop" class="button dropdown")
+	Dropdown Button
+	%br
+%ul(id="drop" data-dropdown-content class="f-dropdown")
+  %li
+  	%a(href="#")
+  		This is a link
+  %li
+  	%a(href="#")
+  		This is another
+  %li
+  	%a(href="#")
+  		Yet another
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>zfh-dropdown-button</tabTrigger>
+  <description>ZURB Foundation 5 Dropdown Buttons</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.haml</scope>
+</snippet>

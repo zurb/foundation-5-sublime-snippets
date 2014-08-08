@@ -23,33 +23,34 @@ or
 `git clone https://github.com/zurb/foundation-5-sublime-snippets.git`
 
 * Each snippet is prefixed with `zf-` (ZURB Foundation).
+* Each haml snippet is prefixed with `zfh-`.
 * Each snippet is singular, unless the name of the component ends in an s (offcanvas)
 * Available classes are included as comments in the snippets
 
 ### Available Components
 
-Component        | Usage
-:--------------- | :-----------:
-Offcanvas        | zf-offcanvas + tab
-Topbar           | zf-topbar + tab
-Sidenav          | zf-sidenav + tab
-Subnav           | zf-subnav + tab
-Breadcrumbs      | zf-breadcrumb + tab
-Pagination       | zf-pagination + tab
-Orbit            | zf-orbit + tab
-Clearing         | zf-clearing + tab
-Buttons          | zf-button + tab
-Button Groups    | zf-button-group + tab
-Split Buttons    | zf-split-button + tab
-Dropdown Buttons | zf-dropdown-button + tab
-Reveal           | zf-reveal + tab
-Alerts           | zf-alert + tab
-Panels           | zf-panel + tab
-Pricing Tables   | zf-pricing-table + tab
-Progress Bars    | zf-progress-bar + tab
-Accordion        | zf-accordion + tab
-Tabs             | zf-tab + tab
-Vertical Tabs    | zf-vertical-tab + tab
+Component        | Usage (HTML)             | Usage (Haml)             
+:--------------- | :-----------             | :-----------:            
+Offcanvas        | zf-offcanvas + tab       | zfh-offcanvas + tab
+Topbar           | zf-topbar + tab          | zfh-topbar + tab
+Sidenav          | zf-sidenav + tab         | zfh-sidenav + tab
+Subnav           | zf-subnav + tab          | zfh-subnav + tab
+Breadcrumbs      | zf-breadcrumb + tab      | zfh-breadcrumb + tab
+Pagination       | zf-pagination + tab      | zfh-pagination + tab
+Orbit            | zf-orbit + tab           | zfh-orbit + tab
+Clearing         | zf-clearing + tab        | zfh-clearing + tab
+Buttons          | zf-button + tab          | zfh-button + tab
+Button Groups    | zf-button-group + tab    | zfh-button-group + tab
+Split Buttons    | zf-split-button + tab    | zfh-split-button + tab
+Dropdown Buttons | zf-dropdown-button + tab | zfh-dropdown-button + tab
+Reveal           | zf-reveal + tab          | zfh-reveal + tab
+Alerts           | zf-alert + tab           | zfh-alert + tab
+Panels           | zf-panel + tab           | zfh-panel + tab
+Pricing Tables   | zf-pricing-table + tab   | zfh-pricing-table + tab
+Progress Bars    | zf-progress-bar + tab    | zfh-progress-bar + tab
+Accordion        | zf-accordion + tab       | zfh-accordion + tab
+Tabs             | zf-tab + tab             | zfh-tab + tab
+Vertical Tabs    | zf-vertical-tab + tab    | zfh-vertical-tab + tab
 
 
 

@@ -23,6 +23,7 @@ or
 `git clone https://github.com/zurb/foundation-5-sublime-snippets.git`
 
 * Each snippet is prefixed with `zf-` (ZURB Foundation).
+* Each haml snippet is prefixed with `zfh-`.
 * Each snippet is singular, unless the name of the component ends in an s (offcanvas)
 * Available classes are included as comments in the snippets
 

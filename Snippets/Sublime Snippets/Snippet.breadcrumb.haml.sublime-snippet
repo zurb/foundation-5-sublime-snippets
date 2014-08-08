@@ -1,0 +1,22 @@
+<snippet>
+  <content><![CDATA[
+%ul(class="breadcrumbs")
+  %li
+    %a(href="#")
+      Home
+  %li
+    %a(href="#")
+      Features
+  %li(class="unavailable")
+    %a(href="#")
+      Gene Splicing
+  %li(class="current")
+    %a(href="#")
+      Cloning
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>zfh-breadcrumb</tabTrigger>
+  <description>ZURB Foundation 5 Breadcrumbs</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.haml</scope>
+</snippet>

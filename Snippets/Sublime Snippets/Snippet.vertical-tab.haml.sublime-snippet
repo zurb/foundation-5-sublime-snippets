@@ -1,0 +1,35 @@
+<snippet>
+  <content><![CDATA[
+%dl(class="tabs vertical" data-tab)
+  %dd(class="active")
+    %a(href="#panel1a")
+      Tab 1
+  %dd
+    %a(href="#panel2a")
+      Tab 2
+  %dd
+    %a(href="#panel3a")
+      Tab 3
+  %dd
+    %a(href="#panel4a")
+      Tab 4
+%div(class="tabs-content vertical")
+  %div(class="content active" id="panel1a")
+    %p
+      Panel 1.
+  %div(class="content" id="panel2a")
+    %p
+      Panel 2.
+  %div(class="content" id="panel3a")
+    %p
+      Panel 3.
+  %div(class="content" id="panel4a")
+    %p
+      Panel 4.
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>zfh-vertical-tab</tabTrigger>
+  <description>ZURB Foundation Vertical Tabs</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.haml</scope>
+</snippet>

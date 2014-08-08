@@ -1,0 +1,38 @@
+<snippet>
+  <content><![CDATA[
+%nav(class="top-bar" data-topbar)
+  %ul(class="title-area")
+    %li(class="name")
+      %h1
+        %a(href="#")
+          Something
+    %li(class="toggle-topbar menu-icon")
+      %a(href="#")
+        Menu
+
+  %section(class="top-bar-section")
+    / Right Nav Section
+    %ul(class="right")
+      %li(class="active")
+        %a(href="#")
+          Right Nav Button Active
+      %li(class="has-dropdown")
+        %a(href="#")
+          Right Button with Dropdown
+        %ul(class="dropdown")
+          %li
+            %a(href="#")
+              First link in dropdown
+
+    / Left Nav Section
+    %ul(class="left")
+      %li
+        %a(href="#")
+          Left Nav Button
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>zfh-topbar</tabTrigger>
+  <description>ZURB Foundation 5 Topbar</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.haml</scope>
+</snippet>

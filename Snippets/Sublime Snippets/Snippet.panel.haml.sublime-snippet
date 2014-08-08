@@ -1,0 +1,15 @@
+<snippet>
+  <content><![CDATA[
+/ Optional Classes: [callout radius]
+%div(class="panel")
+  %h5
+  	This is a callout panel.
+  %p
+  	It's a little ostentatious, but useful for important content.
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>zfh-panel</tabTrigger>
+  <description>ZURB Foundation 5 Split Buttons</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.haml</scope>
+</snippet>

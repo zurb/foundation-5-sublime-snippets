@@ -51,7 +51,7 @@ Accordion        | zf-accordion + tab
 Tabs             | zf-tab + tab
 Vertical Tabs    | zf-vertical-tab + tab
 Vertical Iconbar | zf-iconbar-vertical + tab
-Horizntl Iconbar | zf-iconbar-horizontal + tab
+Horizontal Iconbar| zf-iconbar-horizontal + tab
 Flex Video		 | zf-video + tab
 
 

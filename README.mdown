@@ -47,6 +47,7 @@ Alerts           | zf-alert + tab
 Panels           | zf-panel + tab
 Pricing Tables   | zf-pricing-table + tab
 Progress Bars    | zf-progress-bar + tab
+Tables		     | zf-table + tab
 Accordion        | zf-accordion + tab
 Tabs             | zf-tab + tab
 Vertical Tabs    | zf-vertical-tab + tab

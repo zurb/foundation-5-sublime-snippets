@@ -50,6 +50,9 @@ Progress Bars    | zf-progress-bar + tab
 Accordion        | zf-accordion + tab
 Tabs             | zf-tab + tab
 Vertical Tabs    | zf-vertical-tab + tab
+Horizontal Iconbar| zf-iconbar-horizontal + tab
+Vertical Iconbar | zf-iconbar-vertical + tab
+Flex Video		 | zf-video + tab
 
 
 

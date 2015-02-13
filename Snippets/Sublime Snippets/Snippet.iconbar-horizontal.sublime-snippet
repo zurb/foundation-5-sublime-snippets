@@ -1,0 +1,27 @@
+<snippet>
+  <content><![CDATA[
+  <div class="icon-bar four-up">
+  <a class="item">
+    <img src="http://foundation.zurb.com/docs/assets/img/images/fi-home.svg" >
+    <label>Home</label>
+  </a>
+  <a class="item">
+    <img src="http://foundation.zurb.com/docs/assets/img/images/fi-bookmark.svg" >
+    <label>Bookmark</label>
+  </a>
+  <a class="item">
+    <img src=".http://foundation.zurb.com/docs/assets/img/images/fi-info.svg" >
+    <label>Info</label>
+  </a>
+  <a class="item">
+    <img src="http://foundation.zurb.com/docs/assets/img/images/fi-mail.svg" >
+    <label>Mail</label>
+  </a>
+</div>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>zf-iconbar-horizontal</tabTrigger>
+  <description>ZURB Foundation 5 Horizontal-4 Iconbar</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html</scope>
+</snippet>

@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+<div class="flex-video widescreen vimeo">
+  <iframe src="ENTER VIDEO URL HERE" width="400" height="225" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+</div>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>zf-video</tabTrigger>
+  <description>ZURB Foundation 5 Flex Video</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html</scope>
+</snippet>

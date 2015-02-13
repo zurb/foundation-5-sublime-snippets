@@ -2,19 +2,19 @@
   <content><![CDATA[
   <div class="icon-bar four-up">
   <a class="item">
-    <img src="http://foundation.zurb.com/docs/assets/img/images/fi-home.svg" >
+    <img src="<img src="http://placehold.it/25x25">
     <label>Home</label>
   </a>
   <a class="item">
-    <img src="http://foundation.zurb.com/docs/assets/img/images/fi-bookmark.svg" >
+    <img src="http://placehold.it/25x25" >
     <label>Bookmark</label>
   </a>
   <a class="item">
-    <img src=".http://foundation.zurb.com/docs/assets/img/images/fi-info.svg" >
+    <img src="http://placehold.it/25x25" >
     <label>Info</label>
   </a>
   <a class="item">
-    <img src="http://foundation.zurb.com/docs/assets/img/images/fi-mail.svg" >
+    <img src="http://placehold.it/25x25" >
     <label>Mail</label>
   </a>
 </div>

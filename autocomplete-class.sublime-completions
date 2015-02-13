@@ -87,7 +87,7 @@
         "flex-video",
         "four-up",
         "hide",
-        "hide-for-landscape"
+        "hide-for-landscape",
         "hide-for-portrait",
         "hide-for-print",
         "hide-for-touch",
@@ -196,13 +196,13 @@
         "pricing-table",
         "print-only",
         "progress",
-        "pull-"
+        "pull-",
         "push-",
         "radius",
         "range-slider",
         "range-slider-active-segment",
         "range-slider-handle",
-        "reveal-modal"
+        "reveal-modal",
         "reveal-modal-bg",
         "right",
         "right-align",
@@ -291,6 +291,6 @@
         "xxlarge-text-center",
         "xxlarge-text-justif",
         "xxlarge-text-left",
-        "xxlarge-text-right",
+        "xxlarge-text-right"
     ]
 }

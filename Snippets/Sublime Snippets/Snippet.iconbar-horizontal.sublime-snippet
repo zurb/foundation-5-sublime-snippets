@@ -1,20 +1,20 @@
 <snippet>
   <content><![CDATA[
-  <div class="icon-bar four-up">
+<div class="icon-bar four-up">
   <a class="item">
-    <img src="<img src="http://placehold.it/25x25">
+    <img src="http://placehold.it/25x25" alt="">
     <label>Home</label>
   </a>
   <a class="item">
-    <img src="http://placehold.it/25x25" >
+    <img src="http://placehold.it/25x25" alt="">
     <label>Bookmark</label>
   </a>
   <a class="item">
-    <img src="http://placehold.it/25x25" >
+    <img src="http://placehold.it/25x25" alt="">
     <label>Info</label>
   </a>
   <a class="item">
-    <img src="http://placehold.it/25x25" >
+    <img src="http://placehold.it/25x25" alt="">
     <label>Mail</label>
   </a>
 </div>

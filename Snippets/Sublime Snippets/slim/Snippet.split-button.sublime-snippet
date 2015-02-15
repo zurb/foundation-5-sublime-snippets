@@ -1,0 +1,26 @@
+<snippet>
+  <content><![CDATA[
+/! Size Classes: [tiny small medium large]
+/! Color Classes: [secondary alert success]
+/! Radius Classes: [radius round]
+a.button.split[href="#"]
+  | Split Button
+  span[data-dropdown="drop"]
+br
+ul#drop.f-dropdown[data-dropdown-content]
+  li
+    a[href="#"]
+      | This is a link
+  li
+    a[href="#"]
+      | This is another
+  li
+    a[href="#"]
+      | Yet another
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>zf-split-button</tabTrigger>
+  <description>ZURB Foundation 5 Split Buttons</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.slim</scope>
+</snippet>

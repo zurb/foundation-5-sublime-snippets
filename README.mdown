@@ -52,6 +52,7 @@ Vertical Tabs    | zf-vertical-tab + tab
 Horizontal Iconbar| zf-iconbar-horizontal + tab
 Vertical Iconbar | zf-iconbar-vertical + tab
 Flex Video		 | zf-video + tab
+Row with Columns | zf-row + tab
 
 
 

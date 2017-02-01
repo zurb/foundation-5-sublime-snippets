@@ -1,0 +1,18 @@
+<snippet>
+  <content><![CDATA[
+<div class="row">
+	<div class="small-6 medium-6 large-6 columns">
+		$1
+	</div>
+	<div class="small-6 medium-6 large-6 columns">
+		$2
+	</div>
+</div>
+
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>zf-grid-2</tabTrigger>
+  <description>ZURB Foundation Grid 2 Column</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html</scope>
+</snippet>

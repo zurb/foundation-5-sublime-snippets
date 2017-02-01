@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+<!-- Optional classes: [radius round] -->
+<a class="th" href="${1:large.jpg}">
+  <img src="${2:small.jpg}">
+</a>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>zf-thumb</tabTrigger>
+  <description>ZURB Foundation 5 Thumbnail</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html</scope>
+</snippet>

@@ -1,0 +1,20 @@
+<snippet>
+  <content><![CDATA[
+/* Medium Only Styles - min-width 641px and max-width 1024px */
+@media only screen and (min-width: 40.063em) and (max-width: 64em) { 
+	${1}
+} 
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>zf-query-mo</tabTrigger>
+  <description>ZURB Foundation Media Query - Medium Only</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.css</scope>
+</snippet>
+<!-- 
+# If you are using Emmet for Sublime Text, you will need disable css abbreviations
+# if you want this snippet to work with tab completion. Below is the setting change
+# to do this. 
+
+"disable_tab_abbreviations_for_scopes": "source.css", 
+-->

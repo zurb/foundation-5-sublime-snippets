@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+<!-- Optional classes: [widescreen vimeo] -->
+<div class="flex-video">
+	$1
+</div>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>zf-flex-video</tabTrigger>
+  <description>ZURB Foundation 5 Flex Video</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html</scope>
+</snippet>
